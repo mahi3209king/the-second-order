@@ -1,0 +1,23 @@
+{
+  "name": "the_second_order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.37.0",
+    "@mozilla/readability": "^0.6.0",
+    "dotenv": "^17.2.3",
+    "jsdom": "^27.4.0",
+    "mongodb": "^7.0.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.16.0",
+    "rss-parser": "^3.13.0"
+  }
+}
